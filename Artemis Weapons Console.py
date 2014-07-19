@@ -1,7 +1,7 @@
 # Artemis Weapons Console by Stugo
 # NOTE: This script requires the following Python modules:   
 #  pygame   - http://www.pygame.org/  
-# Win32 users may also need:  
+# Win32 users may also need:   
 #  pywin32  - http://sourceforge.net/projects/pywin32/ 
 #
 # This script is based on a screen resolution of 1366x768 or 1280x800
